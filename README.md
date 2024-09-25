@@ -1,6 +1,6 @@
 I have applied for many data science jobs over linkedin and other job websites. 
 
-Either the recruiters take too much time to respond or they reject me. 
+Either the recruiters take too much time to respond or they reject me [we can't blame them, they are just looking out for comapny's interest]
 
 Slowly realizing that rejection is part of the process , deep inside we know how skillful we are at understanding and implementing the code. 
 
